@@ -26,5 +26,3 @@ def findSpeed(pixelDistance, time, height):
   #Calculate the speed of the ISS
   speed = finalDistance / time
   return speed
-
-print(findSpeed(pixelDistance, time, height))
