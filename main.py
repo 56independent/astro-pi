@@ -17,6 +17,8 @@ import diffChecker
 import finals
 import time
 
+data = [] # Within which we have a number of dictionaries, containing the estimatedHeight, estimatedDistance, time, and estimatedSpeed
+
 photoNames = []
 
 for i in range(600*4):
